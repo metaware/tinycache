@@ -1,4 +1,7 @@
 ![tinycache](https://tinycache.io/sites/all/themes/basic/images/optimized/tinycache_logo_150.png) 
+[![Build Status](https://travis-ci.org/metaware/tinycache.svg?branch=master)](https://travis-ci.org/metaware/tinycache) 
+[![Code Climate](https://codeclimate.com/github/metaware/tinycache/badges/gpa.svg)](https://codeclimate.com/github/metaware/tinycache)
+
 
 ## Installation
 
